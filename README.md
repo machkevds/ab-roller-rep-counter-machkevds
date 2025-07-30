@@ -1,3 +1,5 @@
+### AI Based Ab Roller Rep Counter
+
 ## Motivation Story & Introduction
 As a child, I never had the opportunity of being confortable with my physical image, growing up in a family with lack of education in terms of healthy lifestyle habits, I was always considered heavy. After some resilientful times, I was able to shift reality into a more healthy lifestyle, achieving the opposite.
 
